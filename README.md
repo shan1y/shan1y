@@ -3,7 +3,7 @@
 - 👀 I’m interested in STEM, advocating for women in tech, health and fitness, volleyball, Web 3.0 & DeFi
 - 🌱 I’m currently learning front-end web development skills for a career change
 - 💞️ I’m looking to collaborate on Frontend Mentor challenges. Connect with me and we can support eachother as we learn. 
-- 📫 You can reach me on twitter! DMs are open. 
+- 📫 You can reach me on twitter! DMs are open. Twitter: [@shaida.eth](https://twitter.com/shaida.eth)
 
 <h3>Languages & Tools I Use:</h3>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
