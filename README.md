@@ -1,11 +1,11 @@
 <h1>👋 Hi, I’m @shan1y</h1>
 
-I'm a Chemical Engineering graduate, career-changer, and Full Stack Developer in Training with a passion for killer front end design and leveraging code to make peoples' lives easier!
+I'm a Chemical Engineering graduate, career-changer, and Full Stack Developer in Training with a passion for killer front end design and leveraging code to make peoples' lives easier
 
 - 💖 I have a passion for STEM, advocating for women in tech, health and fitness, Web 3.0 & DeFi
-- 🌱 I’m currently learning Full Stack Web Development to satisfy my rediscovered passion and drive for creativity!
-- 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city! 
-- 👀 Fun fact, I must have built 20 websites with Piczo when I was in elementary school, but didn't realize I had a passion for creating websites!
+- 🌱 I’m currently learning Full Stack Web Development to satisfy my rediscovered passion and drive for creativity
+- 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city
+- 👀 Fun fact, I must have built 20 websites with Piczo when I was in elementary school, but didn't realize I had a passion for creating websites
 - 😄 Pronouns: She/Her
 - 📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth)
 
