@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @shan1y</h1>
 
-- 👀 I have a passioner for STEM, advocating for women in tech, health and fitness, Web 3.0 & DeFi
+- 👀 I have a passion for STEM, advocating for women in tech, health and fitness, Web 3.0 & DeFi
 - 🌱 I’m currently learning Full Stack Web Development to satisfy my rediscovered passion and drive for creativity!
 - 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city! 
 - 😄 Pronouns: She/Her
