@@ -1,8 +1,9 @@
 <h1>👋 Hi, I’m @shan1y</h1>
 
-- 👀 I’m interested in STEM, advocating for women in tech, health and fitness, volleyball, Web 3.0 & DeFi
-- 🌱 I’m currently learning front-end web development skills for a career change
-- 💞️ I’m looking to collaborate on Frontend Mentor challenges. Connect with me and we can support eachother as we learn. 
+- 👀 I have a passioner for STEM, advocating for women in tech, health and fitness, Web 3.0 & DeFi
+- 🌱 I’m currently learning Full Stack Web development skills to satisfy my rediscovered passion and drive for creativity
+- 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city! 
+- 😄 Pronouns: She/Her
 - 📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth)
 
 <h3>Languages & Tools I Use:</h3>
