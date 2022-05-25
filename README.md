@@ -7,7 +7,7 @@
 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city <br>
 👀 Fun Fact! I'm from East Coast Canada, but I've never tried oysters or muscles<br>
 😄 Pronouns: She/Her <br>
-📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth) 
+<!-- 📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth)  -->
 
 <h3>Languages & Tools I Use:</h3>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
