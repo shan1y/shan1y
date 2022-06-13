@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Shannon</h1>
 
-<b>I'm a Chemical Engineering graduate, career-changer, and Full Stack Developer in Training with a passion for killer front end design and leveraging code to make peoples' lives easier</b>
+<b>I'm a Chemical Engineering graduate, career-changer, and Full Stack Developer with a passion for killer front end design and leveraging code to make peoples' lives easier</b>
 
 💖 I have interests in STEM, advocating for women in tech, health and fitness, Web 3.0 & DeFi <br>
 🌱 I’m currently learning Full Stack Web Development to pursue my rediscovered passion and drive for creativity <br>
