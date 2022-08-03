@@ -3,7 +3,7 @@
 <b>I'm a Chemical Engineering graduate, career-changer, and Full Stack Developer with a passion for killer front end design and leveraging code to make peoples' lives easier</b>
 
 💖 I'm interested in STEM, advocating for women in tech, health and fitness, Web 3.0 & DeFi <br>
-🌱 I’m currently learning Full Stack Web Development to pursue my rediscovered passion and drive for creativity <br>
+🌱 I’m currently learning SQL to better learn how to interact with data!<br>
 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city <br>
 👀 Fun Fact! I'm from East Coast Canada, but I've never tried oysters or muscles<br>
 😄 Pronouns: She/Her <br>
