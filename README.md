@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="37" height="37" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="react" width="37" height="37" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="react" width="37" height="37" />
-<h3>My GitHun Stats:</h3>
+<h3>My GitHub Stats:</h3>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shan1y&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
           
 
