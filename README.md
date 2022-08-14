@@ -20,6 +20,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="react" width="37" height="37" />
 
           ## My GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shan1y)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shan1y&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
           
 
