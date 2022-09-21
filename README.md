@@ -19,7 +19,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="react" width="37" height="37" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="react" width="37" height="37" />
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="react" width="37" height="37" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="react" width="37" height="37" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-plain.svg" alt="react" width="37" height="37" />
 
 
 
