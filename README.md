@@ -22,6 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="react" width="37" height="37" />
 
 <h3>My GitHub Stats</h3>
-<div><a href="http://www.github.com/shan1y"><img src="https://github-readme-stats.vercel.app/api?username=shan1y&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="Shan1y GitHub stats" /></a></div>
+<div><a href="http://www.github.com/shan1y"><img src="https://github-readme-stats.vercel.app/api?username=shan1y&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="Shan1y GitHub stats"/></a></div>
 
 
