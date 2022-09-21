@@ -9,7 +9,7 @@
 😄 Pronouns: She/Her <br>
 <!-- 📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth)  -->
 
-## Languages & Tools I Use:
+<h3>Languages & Tools I Use:</h3>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
@@ -21,7 +21,7 @@
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="react" width="37" height="37" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="react" width="37" height="37" />
 
-## My GitHub Stats
+<h4>My GitHub Stats</h4>
 <div><a href="http://www.github.com/shan1y"><img src="https://github-readme-stats.vercel.app/api?username=shan1y&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="Shan1y GitHub stats" /></a></div>
 
 
