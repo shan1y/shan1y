@@ -27,5 +27,5 @@
 <div><a href="http://www.github.com/shan1y"><img src="https://github-readme-stats.vercel.app/api?username=shan1y&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="Shan1y GitHub stats"/></a></div>
 
 <h3>Connect with me!</h3>
-<a href="https://www.linkedin.com/in/shannonyazdani/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedIn" width="25" height="25" /></a>
-<a href="(https://twitter.com/shaida_eth)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="25" height="25" /></a>
+<p><a href="https://www.linkedin.com/in/shannonyazdani/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedIn" width="25" height="25" /></a>
+<a href="(https://twitter.com/shaida_eth)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="25" height="25" /></a></p>
