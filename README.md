@@ -2,12 +2,12 @@
 
 <b>I'm a Chemical Engineering graduate, career-changer, and Full Stack Developer with a passion for killer front end design and leveraging code to make peoples' lives easier</b>
 
-💡 I'm interested in STEM, advocating for women in tech, health and fitness, Web 3.0 & DeFi <br>
-🌱 I’m currently learning SQL to better learn how to interact with data!<br>
+💡 I'm working as a teaching assistant for a web development bootcamp at BrainStation, coming to an end on October 4th<br>
+🌱 I’m currently mastering Typescript for less error-prone code and better performance during execution<br>
 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city <br>
 📍 Fun Fact! I'm from East Coast Canada, but I've never tried oysters or muscles<br>
 😄 Pronouns: She/Her <br>
-<!-- 📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth)  -->
+📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth)
 
 <h3>Languages & Tools I Use:</h3>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
