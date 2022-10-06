@@ -24,8 +24,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="37" height="37" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="37" height="37"/>
 
-<!--- <h3>My GitHub Stats:</h3>
-<div><a href="http://www.github.com/shan1y"><img src="https://github-readme-stats.vercel.app/api? username=shan1y&show_icons=true&hide=&count_private=true&title_color=5E3E85&text_color=6E6F71&icon_color=D2C8DE&bg_color=ffffff&hide_border=false&show_icons=true%22%20alt="Shan1y's github stats"/></a></div> --->
+<h3>My GitHub Stats:</h3>
+<div><a href="http://www.github.com/shan1y"><img src="https://github-readme-stats.vercel.app/api? username=shan1y&show_icons=true&hide=&count_private=true&title_color=5E3E85&text_color=6E6F71&icon_color=D2C8DE&bg_color=ffffff&hide_border=false&show_icons=true%22%20alt="Shan1y's github stats"/></a></div>
 
 <h3>Connect with me!</h3>
 <p><a href="https://www.linkedin.com/in/shannonyazdani/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedIn" width="25" height="25" /></a>
