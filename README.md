@@ -3,7 +3,7 @@
 <b>I'm a Chemical Engineering graduate, career-changer, and Full Stack Developer with a passion for killer front end design and leveraging code to make peoples' lives easier</b>
 
 💡 I'm currently open for hire, and was most recently a teaching assistant at BrainStation's Web Development Bootcamp<br>
-🌱 I’m currently mastering Typescript for less error-prone code and better performance during execution<br>
+🌱 I’m working on mastering Typescript for less error-prone code and better performance during execution<br>
 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city <br>
 📍 Fun Fact! I'm from East Coast Canada, but I've never tried oysters or muscles<br>
 😄 Pronouns: She/Her <br>
