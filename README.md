@@ -6,7 +6,7 @@
 🌱 I’m working on mastering Typescript for less error-prone code and better performance during execution<br>
 🌟 When Im not at my desk, you can find me playing court & beach volleyball and exploring the city <br>
 📍 Fun Fact! I'm from East Coast Canada, but I've never tried oysters or muscles<br>
-😄 Pronouns: She/Her <br>
+😄 Pronouns: She/Her<br>
 📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth)
 
 <h3>Languages & Tools I Use:</h3>
