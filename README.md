@@ -1,6 +1,6 @@
 <h1>Hi, I’m Shannon :sunny:</h1>
 
-<b>I'm a Chemical Engineering graduate, career-changer, and Full Stack Developer with a passion for killer front end design and leveraging code to make peoples' lives easier!</b>
+<b>I'm a Full Stack Developer with a passion for killer front end design and leveraging code to make peoples' lives easier!</b>
 
 💡 I'm currently a front-end web developer at Layerr.xyz, building tools for artists and creators!<br>
 🌱 I’m working on mastering Typescript for less error-prone code & improved maintainability<br>
