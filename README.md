@@ -56,7 +56,7 @@
 <p><a href="https://www.linkedin.com/in/shannonyazdani/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedIn" width="25" height="25" /></a>
 <a href="https://twitter.com/shaida_eth" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="25" height="25" /></a></p>
 
-### My blog posts
+### My blog posts:
 [From Engineering, to Sales, and Back Again!](https://shannonshaida.hashnode.dev/my-career-change)<br>
 [So, you've enrolled in a coding bootcamp?](https://shannonshaida.hashnode.dev/considering-a-coding-bootcamp)
 
