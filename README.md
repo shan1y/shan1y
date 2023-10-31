@@ -9,7 +9,7 @@
 😄 Pronouns: She/Her<br>
 📫 You can reach me on twitter, my DMs are open! Twitter: [@shaida_eth](https://twitter.com/shaida_eth)
 
-<h3>Languages & Tools I Use:</h3>
+<h3>Languages & Tools I Use: </h3>
 <h4>Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" >
